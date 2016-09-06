@@ -1,0 +1,17 @@
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/obj/Debug/Assembly-CSharp.dll
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/Temp/bin/Debug/UnityEngine.dll
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/Temp/bin/Debug/UnityEditor.dll
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/Temp/bin/Debug/Mono.Cecil.dll
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/Temp/bin/Debug/Unity.DataContract.dll
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/fudaviddong/Documents/repos/Unity/LaserDefender/LaserDefender/Temp/bin/Debug/Mono.Cecil.Mdb.dll

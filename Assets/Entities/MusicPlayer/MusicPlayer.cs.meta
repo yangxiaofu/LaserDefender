@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 194a05626d3f74d148c6642080a46c7e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - startClip: {fileID: 8300000, guid: e39a2982d8f624b078137ca2ee68deaf, type: 3}
+  - gameClip: {fileID: 8300000, guid: e39271eaf04544811bb878d7c4594fde, type: 3}
+  - endClip: {fileID: 8300000, guid: d062d087cf7664104b4c3d3869a843ef, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
